@@ -1,16 +1,15 @@
 {
-  "name": "sweet-alert",
-  "homepage": "https://sweetalert2.github.io/",
+  "name": "bitter-alert",
   "authors": [
-    "Limon Monte <limon.monte@gmail.com> (https://limonte.github.io)"
+    "gickhub <gickhub@protonmail.com>"
   ],
-  "description": "A Polymer 2 wrapper for SweetAlert2",
+  "description": "A Polymer 1 wrapper for SweetAlert2",
   "keywords": [
     "web-component",
     "web-components",
     "polymer",
-    "sweetlaert",
-    "sweetlaert2",
+    "polymer 1",
+    "sweetalert2",
     "dialog",
     "modal"
   ],
