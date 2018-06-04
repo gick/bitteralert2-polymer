@@ -1,5 +1,5 @@
 # `<bitter-alert>` - a Polymer 1 wrapper for [SweetAlert2](https://github.com/gick/bitter-alert)
-# forked from [<sweet-alert>](https://github.com/limonte/sweetalert2-polymer)
+# forked from Polymer 2 [sweet-alert](https://github.com/limonte/sweetalert2-polymer)
 
 <!--
 ```
